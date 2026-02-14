@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hexo s)",
+      "Bash(npx hexo s)",
+      "Bash(cmd //c:*)",
+      "Bash(npm install:*)",
+      "Bash(npx hexo config)",
+      "Bash(tasklist)",
+      "Bash(taskkill /F /IM node.exe)",
+      "WebFetch(domain:github.com)",
+      "Bash(taskkill:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)"
+    ]
+  }
+}
