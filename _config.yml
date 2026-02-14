@@ -101,7 +101,9 @@ theme: hexo-theme-async
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Changyuu98/HexoBlog.git
+  branch: gh-pages  
 
 # Server
 ## https://hexo.io/docs/server.html
